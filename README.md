@@ -1,6 +1,6 @@
 # Olá, pessoal, eu sou a Mayara, A.K.A Maya >,<
 
-<img align="right" height="400" src="https://i.ibb.co/s6Tvgmg/Source-code-pana.png" alt="Swot-analysis-amico" border="0">
+<img align="right" height="350" src="https://i.ibb.co/s6Tvgmg/Source-code-pana.png" alt="Swot-analysis-amico" border="0">
 
 ### 🔎 Sobre mim
 
@@ -34,8 +34,8 @@
 ### 🌀 Algumas estatísticas
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mayabrito&show_icons=true&theme=react">
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=mayabrito&show_icons=true&theme=react">
 
- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayabrito&layout=compact&theme=react">
+ <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayabrito&layout=compact&theme=react">
   </div>
 
