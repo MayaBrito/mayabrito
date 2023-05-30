@@ -5,7 +5,7 @@
 ### 🔎 Sobre mim
 
 <p align="justify">
- 🔹 Possuo formação como Técnica de Informática e atualmente curso Ciência da Computação na Universidade Federal de Campina Grande. Sou apaixonada pela tecnologia em geral, especialmente por Desenvolvimento Web, Ciência de Dados e Inteligênc.
+ 🔹 Possuo formação como Técnica de Informática e atualmente curso Ciência da Computação na Universidade Federal de Campina Grande. Sou apaixonada pela tecnologia em geral, especialmente por Desenvolvimento Web, Ciência de Dados e Inteligência Artificial.
 </p>
 
 <p align="justify">
